@@ -1,7 +1,9 @@
+<!-- 待加功能： 渐变色背景、工具图标 -->
 ## Hi,there.I'm lavard~:blush:
-Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
-# TAGS
+**Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
+哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名全栈工程师**
 
+# TAGS
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -15,12 +17,13 @@ Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
 # MY languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# MY Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+# MY Tools
+
 
 # MY Situation
 - 🔭 I’m currently working on Vue and uni-app development;
@@ -66,3 +69,14 @@ Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
 
 </details>
 -->
+
+
+## 🎉 特别赞助 
+
+[![JetBrains](https://user-images.githubusercontent.com/20502130/90419395-14409500-e0e9-11ea-8b3b-ade4589dca84.png)](https://www.jetbrains.com/?from=Kratos%20%3a%20Rebirth)
+
+## 🎵 证书
+
+- GNU General Public License v3
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCandinya%2FKratos-Rebirth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCandinya%2FKratos-Rebirth?ref=badge_large)
