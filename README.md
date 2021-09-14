@@ -1,22 +1,13 @@
 <!-- 待加功能： 渐变色背景、工具图标 -->
 > ## Hi,there.I'm lavard~:blush:
 **Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
-哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名全栈工程师**
-
-> ## TAGS
-![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/uses-html.svg)
-![](https://forthebadge.com/images/badges/made-with-javascript.svg)
-![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
-![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
-![](https://forthebadge.com/images/badges/makes-people-smile.svg)
-
+哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名前端兼全栈工程师**
+  
 > ## MY STATS and Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## MY Repo
-
 <details>
 <summary>More Repositories ...</summary>
 <!-- 对齐 Repo 卡片 -->
@@ -50,8 +41,16 @@
 
 Please give a Star if you like.
 
+> ## TAGS
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![](https://forthebadge.com/images/badges/makes-people-smile.svg)
+
 > ## Links
-  <a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
+<a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
   <img align="left" alt="来自拉夫德鲁的码农 | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
 </a>
 <a href="https://juejin.cn/user/994371074524862">
@@ -71,6 +70,4 @@ Please give a Star if you like.
 </a>
 <a href="https://im.qq.com">
   <img align="left" alt="来自拉夫德鲁的码农 | wechat.com" width="21px" src="https://im.qq.com/favicon.ico" />
-</a>
-<a href="">
 </a>
