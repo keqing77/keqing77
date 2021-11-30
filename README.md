@@ -57,24 +57,24 @@
 
 > ## :pray:Links
 <a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
-  <img align="left" alt="来自拉夫德鲁的码农 | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
+  <img align="left" alt="lavard | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
 </a>
 <a href="https://juejin.cn/user/994371074524862">
-  <img align="left" alt="来自拉夫德鲁的码农 | juejin.im" width="21px" src="https://juejin.im/favicon.ico" />
+  <img align="left" alt="lavard | juejin.im" width="21px" src="https://juejin.im/favicon.ico" />
 </a>
 <a href="https://space.bilibili.com/40744412">
-  <img align="left" alt="来自拉夫德鲁的码农 | bilibili.com" width="21px" src="https://www.bilibili.com/favicon.ico" />
+  <img align="left" alt="lavard | bilibili.com" width="21px" src="https://www.bilibili.com/favicon.ico" />
 </a>
 <a href="https://github.com/lalalavard">
-  <img align="left" alt="来自拉夫德鲁的码农 | github.com" width="21px" src="https://www.github.com/favicon.ico" />
+  <img align="left" alt="lavard | github.com" width="21px" src="https://www.github.com/favicon.ico" />
 </a>
 <a href="https://gitee.com/lavard">
-  <img align="left" alt="来自拉夫德鲁的码农 | gitee.com" width="21px" src="https://www.gitee.com/favicon.ico" />
+  <img align="left" alt="lavard | gitee.com" width="21px" src="https://www.gitee.com/favicon.ico" />
 </a>
 <a href="https://wechat.com">
-  <img align="left" alt="来自拉夫德鲁的码农 | qq.com" width="21px" src="https://www.wechat.com/favicon.ico" />
+  <img align="left" alt="lavard | qq.com" width="21px" src="https://www.wechat.com/favicon.ico" />
 </a>
 <a href="https://im.qq.com">
-  <img align="left" alt="来自拉夫德鲁的码农 | wechat.com" width="21px" src="https://im.qq.com/favicon.ico" />
+  <img align="left" alt="lavard | wechat.com" width="21px" src="https://im.qq.com/favicon.ico" />
 </a>
 
