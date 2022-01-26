@@ -13,7 +13,7 @@
 
 > ## 🎉MY STATS and Languages
 ![lalalavard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## 🎵MY Repo
 <details>
