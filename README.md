@@ -12,10 +12,7 @@
 <br/>
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
-  <br/>
+ 
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
@@ -23,9 +20,8 @@
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
   <br/>
   <img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
-  <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="c" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c">
 </p>
+
 > ## 🎉MY STATS and Languages
 ![lalalavard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
