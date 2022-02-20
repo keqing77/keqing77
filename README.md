@@ -9,18 +9,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<br/>
 
-<p align="center">
- 
-  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
-  <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
-  <br/>
-  <img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
-</p>
+<img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
+<img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
+<img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
+<img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
 
 > ## 🎉MY STATS and Languages
 ![lalalavard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
