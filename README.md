@@ -18,6 +18,7 @@
 <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
 <img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
 </code>
+
 > ## 🎉MY STATS and Languages
 ![lalalavard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,13 +55,6 @@
 
 ![](http://profile-counter.glitch.me/biaochenxuying/count.svg)
 
-> ## :raising_hand:TAGS
-![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/uses-html.svg)
-![](https://forthebadge.com/images/badges/made-with-javascript.svg)
-![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
-![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
-![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 > ## :pray:Links
 <a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
