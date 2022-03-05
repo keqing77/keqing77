@@ -12,12 +12,13 @@
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
 <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
-<img alt="rust" src="https://img.shields.io/badge/Rust-bc8362?style=flat-square&logo=rust">
+<img alt="react" src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat&logo=React&logoColor=white">
+<img alt="node" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624">
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
 </code>
 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 
 ### 👋MY Situation | 我的状况
 - 🔭 I’m currently working on [Vue]() and [uni-app]() development;
