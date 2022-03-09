@@ -31,6 +31,7 @@
 ### 🎉MY STATS and Languages | 数据统计
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 🎵MY Repo | 我的仓库
 <details>
