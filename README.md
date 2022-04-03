@@ -1,6 +1,6 @@
 ## :clap:Hi,there.I'm lavard~:blush:
 **Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
-哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名前端兼全栈工程师，目前在学习nuxt.js和egg.js**
+哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名前端兼全栈工程师，目前在学习nuxt.js和nest.js**
 
 ---
 
