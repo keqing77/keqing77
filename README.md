@@ -1,6 +1,6 @@
 ## :clap:Hi,there.I'm lavard~:blush:
 **Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
-哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名前端兼全栈工程师，目前在学习nuxt.js和nest.js**
+哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名前端工程师，目标是全栈, 目前在学习[nuxt.js](https://nuxtjs.org/)和[nest.js](https://nestjs.com/)**
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 👋MY Situation | 我的状况
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) and [React](https://beta.reactjs.org/) development;
-- 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust]([https://github.com/golang/go](https://docs.rs/));
+- 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust](https://docs.rs/);
 - 🌈 I’m looking for collaborators on [996icu](https://github.com/996icu/996.ICU);
 - 💬 Ask me about anything tech related, I am happy to help;
 - ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😃
