@@ -21,11 +21,10 @@
 
 
 ### 👋MY Situation | 我的状况
-- 🔭 I’m currently working on [Vue]() and [uni-app]() development;
-- 🌱 I’m currently learning [PHP](),[Node.js]() and [Golang](https://github.com/golang/go);
+- 🔭 I’m currently working on [Vue](https://vuejs.org/) and [React](https://beta.reactjs.org/) development;
+- 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust]([https://github.com/golang/go](https://docs.rs/));
 - 🌈 I’m looking for collaborators on [996icu](https://github.com/996icu/996.ICU);
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😃
 
 ### 🎉MY STATS and Languages | 数据统计
