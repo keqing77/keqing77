@@ -1,7 +1,9 @@
 ## :clap:Hi,there.I'm lavard~:blush:
+
 **Hi, I'm lavard 👋, a font-end engineer from China.<br />**
 
-<a href="https://sm.ms/image/Dun6KVwI7iMHGOg" target="_blank"><img  align="right" src="https://s2.loli.net/2022/08/05/Dun6KVwI7iMHGOg.jpg" ></a>
+<img  align="right" src="./assets/lavard.jpg" width="300" >
+
 ---
 
 #### 🛠Languages
@@ -16,6 +18,7 @@
 </code>
 
 #### 🔧Frameworks
+
 <code>
 <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
 <img alt="react" src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat&logo=React&logoColor=white">
@@ -23,17 +26,27 @@
 </code>
 
 #### 👀Situation
+
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) and [React](https://beta.reactjs.org/) development;
 - 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust](https://docs.rs/);
 - 🌈 I’m looking for collaborators on [996icu](https://github.com/996icu/996.ICU);
-- 💬 Ask me about anything tech related, I am happy to help;😃
+- 💬 Ask me about anything tech related, I am happy to help😃;
 
 #### 📒Stats
+<!-- 想要隐藏指定统计信息，你可以调用参数 ?hide=，其值用 , 分隔。 -->
+<!-- 选项：&hide=stars,commits,prs,issues,contribs -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true)
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=vue"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&layout=compact&hide=html&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
 
 #### 🏚️Repos
+
 <details>
 <summary>More Repositories ...</summary>
 <!-- 对齐 Repo 卡片 -->
@@ -51,14 +64,14 @@
 </a>
 </details>
 
+### :yum:Thank you for the visit.
 
-### :yum:Thank you for the visit. 
-
-![](http://profile-counter.glitch.me/biaochenxuying/count.svg)
+![](http://profile-counter.glitch.me/lalalavard/count.svg)
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="100" align="right"/>
 
 ### :pray:Links
+
 <a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
   <img align="left" alt="lavard | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
 </a>
@@ -80,4 +93,3 @@
 <a href="https://im.qq.com">
   <img align="left" alt="lavard | wechat.com" width="21px" src="https://im.qq.com/favicon.ico" />
 </a>
-
