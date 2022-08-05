@@ -2,7 +2,7 @@
 
 **Hi, I'm lavard 👋, a font-end engineer from China.<br />**
 
-<img  align="right" src="./assets/lavard.jpg" width="300" >
+<img  align="right" src="./assets/lavard.jpg" width="250" height="420" >
 
 ---
 
