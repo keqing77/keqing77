@@ -29,10 +29,11 @@
 
 - 🔭 I’m currently working on [Vue](https://vuejs.org/) and [React](https://beta.reactjs.org/) development;
 - 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust](https://docs.rs/);
-- 🌈 I’m looking for collaborators on [996icu](https://github.com/996icu/996.ICU);
+- 🌈 I’m looking for collaborators on [Nest.js](https://nestjs.org/);
 - 💬 Ask me about anything tech related, I am happy to help😃;
 
 #### 📒Stats
+
 <!-- 想要隐藏指定统计信息，你可以调用参数 ?hide=，其值用 , 分隔。 -->
 <!-- 选项：&hide=stars,commits,prs,issues,contribs -->
 
@@ -50,17 +51,17 @@
 <details>
 <summary>More Repositories ...</summary>
 <!-- 对齐 Repo 卡片 -->
-<a href="https://github.com/lalalavard/spirit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=spirit" />
+<a href="https://github.com/lalalavard/vue-vben-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=vue-vben-admin&theme=vue" />
 </a>
-<a href="https://github.com/lalalavard/lalalavard.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=lalalavard.github.io" />
+<a href="https://github.com/lalalavard/juejin-helper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=juejin-helper&theme=vue" />
 </a>
 <a href="https://github.com/lalalavard/Cloudreve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=Cloudreve" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=Cloudreve&theme=vue" />
 </a>
 <a href="https://github.com/lalalavard/HyPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=HyPlayer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=HyPlayer&theme=vue" />
 </a>
 </details>
 
