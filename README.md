@@ -24,6 +24,7 @@
 <img alt="react" src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat&logo=React&logoColor=white">
 <img alt="node" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
 </code>
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=7500&lines=JavaScript+%7C++TypeScript+%7C+Vue+%7C++React+%7C++Rust+%7C++Java"></img>
 
 #### 👀Situation
 
