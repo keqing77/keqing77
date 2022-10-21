@@ -52,10 +52,11 @@ A passionate front-end developer from China
 
 <!-- <h2 align="center">  <strong></strong></h2> -->
 
-<img  align="left" src="./assets/小小红.png" width="225" height="325"  >
+<!-- <img  align="left" src="./assets/小小红.png" width="225" height="325"  > -->
 
-
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="325" width="255" align="right"/>
+<p align="center">
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="200" width="250" align="center"/>
+</p>
 
 <!-- 好看的 Github模板资源分享 -->
 <!-- 1. https://zzetao.github.io/awesome-github-profile/ -->
