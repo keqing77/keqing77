@@ -1,9 +1,11 @@
 <!-- 滚动字体-自我介绍 -->
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+lavard....;A Front-end developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+lavard....;A+front-end+developer!&center=true&size=30">
   </a>
 </h1>
+
 
 <h3 align="center"> 
 <strong>
@@ -47,7 +49,7 @@ A passionate front-end developer from China
 </p>
 
 
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="185" width="150" align="right"/>
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="185" width="175" align="right"/>
 
 <img  align="left" src="./assets/lavard.jpg" width="150" height="275" >
 
