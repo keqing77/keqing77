@@ -1,42 +1,33 @@
-## :clap:Hi,there.I'm lavard~:blush:
+<!-- 滚动字体-自我介绍 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+lavard....;A Front-end developer&center=true&size=30">
+  </a>
+</h1>
 
-**Hi, I'm lavard 👋, a font-end engineer from China.<br />**
+<h3 align="center"> 
+<strong>
+A passionate front-end developer from China
+</strong>
+</h3>
 
-<img  align="right" src="./assets/lavard.jpg" width="250" height="420" >
+<!-- 技术栈 Gif 展示 -->
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p>
+<br>
+<br>
+<br>
 
----
-
-#### 🛠Languages
-
-<code>
-<img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-<img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624">
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
-</code>
-
-#### 🔧Frameworks
-
-<code>
-<img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
-<img alt="react" src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat&logo=React&logoColor=white">
-<img alt="node" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
-</code>
-<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=7500&lines=JavaScript+%7C++TypeScript+%7C+Vue+%7C++React+%7C++Rust+%7C++Java"></img>
-
-#### 👀Situation
-
-- 🔭 I’m currently working on [Vue](https://vuejs.org/) and [React](https://beta.reactjs.org/) development;
-- 🌱 I’m currently learning [Java](https://www.oracle.com/cn/java/technologies/java-se-api-doc.html),[Node.js](https://nodejs.org/en/) and [Rust](https://docs.rs/);
-- 🌈 I’m looking for collaborators on [Nest.js](https://nestjs.org/);
-- 💬 Ask me about anything tech related, I am happy to help😃;
-
-#### 📒Stats
-
+<!-- Github 统计数据 -->
 <!-- 想要隐藏指定统计信息，你可以调用参数 ?hide=，其值用 , 分隔。 -->
 <!-- 选项：&hide=stars,commits,prs,issues,contribs -->
+<h2 align="center"> <strong> Teck Stack </strong></h2>
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -47,32 +38,28 @@
   </tr>
 </table>
 
-#### 🏚️Repos
+<!-- 访问量统计 -->
 
-<details>
-<summary>More Repositories ...</summary>
-<!-- 对齐 Repo 卡片 -->
-<a href="https://github.com/lalalavard/vue-vben-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=vue-vben-admin&theme=vue" />
-</a>
-<a href="https://github.com/lalalavard/juejin-helper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=juejin-helper&theme=vue" />
-</a>
-<a href="https://github.com/lalalavard/Cloudreve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=Cloudreve&theme=vue" />
-</a>
-<a href="https://github.com/lalalavard/HyPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=HyPlayer&theme=vue" />
-</a>
-</details>
+<h2 align="center"> 🙏 <strong>Thank you for the visit.</strong></h2>
 
-### :yum:Thank you for the visit.
+<p align="center">
+<img src="http://profile-counter.glitch.me/lalalavard/count.svg"  height="40" width="350" />
+</p>
 
-![](http://profile-counter.glitch.me/lalalavard/count.svg)
+<p>
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="100" align="left"/>
 
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="100" align="right"/>
+<img  align="right" src="./assets/lavard.jpg" width="250" height="420" >
+</p>
 
-### :pray:Links
+
+<!-- 好看的 Github模板资源分享 -->
+<!-- 1. https://zzetao.github.io/awesome-github-profile/ -->
+<!-- 2. knightyun.github.io -->
+
+
+<!-- 社交链接 -->
+<!-- ### :pray:Links
 
 <a href="https://www.zhihu.com/people/lai-zi-la-fu-de-lu-de-ma-nong">
   <img align="left" alt="lavard | zhihu.com" width="20px" src="https://www.zhihu.com/favicon.ico" />
@@ -94,4 +81,19 @@
 </a>
 <a href="https://im.qq.com">
   <img align="left" alt="lavard | wechat.com" width="21px" src="https://im.qq.com/favicon.ico" />
-</a>
+</a> -->
+
+
+<!-- shields.io -->
+<!-- <code>
+<img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
+<img alt="css" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624">
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
+<img alt="vuejs" src="https://img.shields.io/badge/Vue.js-007777?style=flat-square&logo=vue.js">
+<img alt="react" src="https://img.shields.io/badge/-React.js-%2361DAFB?style=flat&logo=React&logoColor=white">
+<img alt="node" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+</code>
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=7500&lines=JavaScript+%7C++TypeScript+%7C+Vue+%7C++React+%7C++Rust+%7C++Java"></img> -->
