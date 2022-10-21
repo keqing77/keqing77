@@ -42,7 +42,7 @@ A passionate front-end developer from China
 
 <!-- 访问量统计 -->
 
-<h2 align="center"> 🙏 <strong>Thank you for the visit.</strong></h2>
+<h2 align="center">  <strong>Thank you for the visit.</strong></h2>
 
 <p align="center">
 <img src="http://profile-counter.glitch.me/lalalavard/count.svg"  height="40" width="350" />
@@ -52,10 +52,15 @@ A passionate front-end developer from China
 
 <!-- <h2 align="center">  <strong></strong></h2> -->
 
-<!-- <img  align="left" src="./assets/小小红.png" width="225" height="325"  > -->
 
 <p align="center">
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="200" width="250" align="center"/>
+</p>
+
+<h2 align="center"> 😍 <strong> Please give me a Star !</strong></h2>
+
+<p align="center">
+<img src="./assets/lavard.png" width="225" height="375"  >
 </p>
 
 <!-- 好看的 Github模板资源分享 -->
