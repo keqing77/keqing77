@@ -46,11 +46,10 @@ A passionate front-end developer from China
 <img src="http://profile-counter.glitch.me/lalalavard/count.svg"  height="40" width="350" />
 </p>
 
-<p>
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="100" align="left"/>
 
-<img  align="right" src="./assets/lavard.jpg" width="250" height="420" >
-</p>
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="185" width="150" align="right"/>
+
+<img  align="left" src="./assets/lavard.jpg" width="150" height="275" >
 
 
 <!-- 好看的 Github模板资源分享 -->
