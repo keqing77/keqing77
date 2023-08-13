@@ -57,6 +57,13 @@ A passionate front-end developer from China
     <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="200" width="250" align="center"/>
 </p>
 
+
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/1dd71e88-1476-4d05-a419-0a2e627fe0a2.svg)](https://wakatime.com/@keqing)
+
+<img align="center" src="https://wakatime.com/share/@keqing/0cb4bfa7-20c9-48f1-b468-d67faaf7431a.svg" alt="keqing" />
+
+
 <!-- 好看的 Github模板资源分享 -->
 <!-- 1. https://zzetao.github.io/awesome-github-profile/ -->
 <!-- 2. knightyun.github.io -->
