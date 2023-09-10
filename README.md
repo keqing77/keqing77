@@ -78,6 +78,20 @@ A+front-end+developer!&center=true&size=30" alt="Typing svg">
     <img src="http://profile-counter.glitch.me/keqing77/count.svg"  height="40" width="350" />
 </p> -->
 
+
+<!-- wakatime -->
+### 📊 WakaTime
+[![wakatime](https://wakatime.com/badge/user/1dd71e88-1476-4d05-a419-0a2e627fe0a2.svg)](https://wakatime.com/@keqing)
+
+<img align="center" src="https://wakatime.com/share/@keqing/f91d0984-ea63-4cdf-aac3-c08cf6cb8073.svg" alt="keqing" />
+
+</table>
+
+<!-- Github static -->
+<!-- 想要隐藏指定统计信息，你可以调用参数 ?hide=，其值用 , 分隔。 -->
+<!-- 选项：&hide=stars,commits,prs,issues,contribs -->
+
+
 <table>
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -86,21 +100,6 @@ A+front-end+developer!&center=true&size=30" alt="Typing svg">
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keqing77&layout=compact&hide=html&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-
-<!-- wakatime -->
-### 📊 WakaTime
-[![wakatime](https://wakatime.com/badge/user/1dd71e88-1476-4d05-a419-0a2e627fe0a2.svg)](https://wakatime.com/@keqing)
-
-<img align="center" src="https://wakatime.com/share/@keqing/f91d0984-ea63-4cdf-aac3-c08cf6cb8073.svg" alt="keqing" />
-
-<!-- Github static -->
-<!-- 想要隐藏指定统计信息，你可以调用参数 ?hide=，其值用 , 分隔。 -->
-<!-- 选项：&hide=stars,commits,prs,issues,contribs -->
-
-
-</table>
-
-
 
 
 <!-- gif -->
