@@ -1,9 +1,7 @@
 <!-- dynamic typing effect -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Weibin....;
-A+front-end+developer!&center=true&size=30" alt="Typing svg">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9742F7&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Keqing;+A+front-end+developer!" alt="Typing SVG" />
   </a>
 </h1>
 
