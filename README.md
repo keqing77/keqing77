@@ -49,39 +49,10 @@
 <p>&emsp;&emsp;A passionate fan of programming, animate, movie, and traveling.</p>
 <p>&emsp;&emsp;I am passionate about computer science and the IT industry, aspiring to become an excellent independent developer.</p>
 <p>&emsp;&emsp;I want to write code until the world is filled with love.❤️</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 
 <tr>
 <td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/thoughtworks-logo.svg" />
-
-- [Thoughtworks](https://www.thoughtworks.com/)  📌 2022 —— Now
-
-- Job position: Software developer
-
-</td>
-</tr>
-
-<tr><td>
-
-
-<!-- Visit count -->
-<!-- <h2 align="center">  <strong>Thank you for the visit.</strong></h2>
-
-<p align="center">
-    <img src="http://profile-counter.glitch.me/keqing77/count.svg"  height="40" width="350" />
-</p> -->
-
-
-<!-- wakatime -->
-### 📊 WakaTime
-[![wakatime](https://wakatime.com/badge/user/1dd71e88-1476-4d05-a419-0a2e627fe0a2.svg)](https://wakatime.com/@keqing)
-
-<img align="center" src="https://wakatime.com/share/@keqing/f91d0984-ea63-4cdf-aac3-c08cf6cb8073.svg" alt="keqing" />
 
 </table>
 
