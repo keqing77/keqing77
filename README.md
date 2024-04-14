@@ -7,31 +7,28 @@
 
 <!-- tech stack -->
 
-<br>
-
 <p align="center">
-<img src="https://media.git.realestate.com.au/user/4780/files/2bebd36f-ebca-4a47-ab52-caeda84a8c95" alt="js-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/24ca56b3-5913-4925-b4d9-25c684121c63" alt="ts-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/fd4383ce-d129-44a0-97b7-b24761f6fd1a" alt="jest-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/5f388e73-b81a-4641-b980-8e55288f2666" alt="react-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/94681ea9-f5ae-4c91-b23b-322164366def" alt="redux-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/ab12379b-c176-41e6-ac60-789eb4ef3f3b" alt="graphql-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/fe19d1c0-4d2f-4b3b-83e4-9b1c269b9c9e" alt="webpack-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/78a8f201-1293-4cb0-bd78-4efb90eb6743" alt="github-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/5bea1b08-9396-42f8-bc30-d7b971493a7b" alt="aws-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://media.git.realestate.com.au/user/4780/files/0b4eb080-2603-4f98-92cc-99aeb90ecb7f" alt="docker-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/js-icon.svg" alt="js-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/ts-icon.svg" alt="ts-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/jest-icon.svg" alt="jest-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/react-icon.svg" alt="react-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/redux-icon.svg" alt="redux-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/graphql-icon.svg" alt="graphql-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/webpack-icon.svg" alt="webpack-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/github-icon.svg" alt="github-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/aws-icon.svg" alt="aws-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/keqing77/photo/blob/main/svg/dynami/docker-icon.svg" alt="docker-icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
-  <!-- <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> -->
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/js.webp" width="100" alt="javascript">
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/python.webp" width="100" alt="python">
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/react.webp" width="100" alt="react">
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/vue.webp" width="100" alt="vue">
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/github.webp" width="100" alt="github">
+  <img src="https://raw.githubusercontent.com/keqing77/photo/main/svg/webp/vscode.webp" width="100"  alt="vscode">
+   <br><br>
+  <img src="https://github.com/keqing77/photo/blob/main/svg/webp/goland.gif" width="300" alt="goland">
 </p>
 <br>
 
